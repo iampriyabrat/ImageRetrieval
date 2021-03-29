@@ -1,1 +1,1 @@
-# ImageRetieval
+# ImageRetrieval
